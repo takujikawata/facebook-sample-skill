@@ -1,0 +1,28 @@
+{
+  "name": "facebook-sample-skill",
+  "version": "1.0.0",
+  "description": "facebook sample skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takujikawata/facebook-sample-skill.git"
+  },
+  "keywords": [
+    "facebook",
+    "alexa",
+    "skill"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/takujikawata/facebook-sample-skill.git/issues"
+  },
+  "homepage": "https://github.com/takujikawata/facebook-sample-skill.git#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "facebook-node": "0.0.3"
+  }
+}
