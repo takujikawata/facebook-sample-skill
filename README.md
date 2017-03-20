@@ -21,7 +21,7 @@ http://matchboxmobile.com/blog/oauth-using-alexa/
 Actually, "Client id" setting of your skill's account linking setting should be matched with the "App ID" of your facebook app's Dashboard page. 
 You would copy the "App ID" displayed in the facebook dashboard page into your skill's account linking setting page and they should work just fine.
 - About the "Scope" of skill's account linking setting, the item you need for this sample working is "user_posts".
-- This skill uses NodeJS Library for Facebook. You can reach to any feature this library provide. See https://www.npmjs.com/package/fb for the detail.
+- This skill uses NodeJS Library for Facebook. You can reach to any features this library provides. See https://www.npmjs.com/package/fb for the detail.
 
 ## License:
 This sample code is provided unser Apache License Version 2.0. For detail, please see: https://github.com/takujikawata/facebook-skill-sample/blob/master/README.md
