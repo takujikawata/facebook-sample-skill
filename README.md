@@ -24,4 +24,4 @@ You would copy the "App ID" displayed in the facebook dashboard page into your s
 - This skill uses NodeJS Library for Facebook. You can reach to any feature this library provide. See https://www.npmjs.com/package/fb for the detail.
 
 ## License:
-This sample code is provided unser Apache License Version 2.0. For detail, please see: https://github.com/takujikawata/calculator-skill-sample/blob/master/LICENSE.txt
+This sample code is provided unser Apache License Version 2.0. For detail, please see: https://github.com/takujikawata/facebook-skill-sample/blob/master/README.md
